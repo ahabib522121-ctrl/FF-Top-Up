@@ -1,12 +1,12 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "FF Top Up";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "mdahasan_habib12";
 
 // =======================================================
 // TELEGRAM GROUP LINK
@@ -16,7 +16,7 @@ var telegram_group_link = "telegram group link";
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
+var youtube_channel_link = "laugh_zone20_12";
 
 // =======================================================
 // NOTIFICATION TEXT
